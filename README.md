@@ -11,7 +11,7 @@ Este robot lo que hace es:
 
 primeramente verifica si hay ventanas del Explorador de archivos abiertas, 
 
-si las hay las cierra imediatamente(mediante la ayudade un archivo python), 
+si las hay las cierra imediatamente(mediante la ayuda de un archivo python), 
 
 si no las hay continúa con lo siguiente: ingresa a la URL especificada, 
 
