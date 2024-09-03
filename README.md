@@ -1,4 +1,4 @@
-# Globho
+# Robot Globho
 
 ![image](https://github.com/user-attachments/assets/e467821a-ec78-4a4a-8202-feceaf7bedfc)
 
