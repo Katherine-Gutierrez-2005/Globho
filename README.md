@@ -1,8 +1,10 @@
-# Robot Aplicativo Web Globho 1.0 - 3.3 08/08/2024 - /09/2024
+# Robot Aplicativo Web Globho 1.0 - 4.1 08/08/2024 - 16/09/2024
 
-![image](https://github.com/user-attachments/assets/e467821a-ec78-4a4a-8202-feceaf7bedfc)
+![image](https://github.com/user-attachments/assets/37dfafd9-8cd2-4c7e-8cf6-7e5d9a4e6e54)
 
-![image](https://github.com/user-attachments/assets/66a97c48-1b9a-4c54-947e-965be26939ab)
+![image](https://github.com/user-attachments/assets/977e5d2a-f4a5-4025-86f1-2dbbf8adc6fb)
+
+
 
 
 Aquí en este repositorio podemos encontrar diferentes versiones de un robot, pero que conforme aumenta el numero de su versión, más aumenta su capacidad dinámica para hacer muchas más tareas que una persona demora realizarlas en mucho tiempo
