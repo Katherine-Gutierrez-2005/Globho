@@ -47,6 +47,4 @@ ya predeterminada en el archivo,
 
 por ultimo cierra ventanas de VS Code, Explorador de archivos, Navegador Google y PIX Studio.
 
-Video más Reciente Grabado, Duración 6 Minutos:
-
-https://drive.google.com/file/d/1GpN5Pna_yf19byV8r7YcGpca_Rc46VP3/view?usp=sharing 
+Duración del Robot:1-2 minutos aproximados.
