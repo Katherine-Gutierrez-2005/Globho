@@ -11,11 +11,7 @@ Primero que todo se le declaran variables y parámetros para darle indicaciones 
 
 Este robot lo que hace es: 
 
-primeramente verifica si hay ventanas del Explorador de archivos abiertas, 
-
-si las hay las cierra imediatamente(mediante la ayuda de un archivo python), 
-
-si no las hay continúa con lo siguiente: ingresa a la URL especificada, 
+primeramente inicia con lo siguiente: ingresa a la URL especificada, 
 
 ingresa unas credenciales de un usuario, va al apartado de reportes, 
 
@@ -23,27 +19,21 @@ va al apartado asistencial, selecciona un reporte,
 
 le indica la fecha en la cual se desea obtener el reporte, 
 
-antes de descargarlo, averigua si hay mas reportes con el mismo nombre en comun y los elimina(mediante la ayuda de un archivo python), 
-
 comienza a descargar hasta encontrar un reporte en especifico, 
 
-lo selecciona y envía ese archivo a la carpeta principal donde está todo el programa, 
-
-a la carpeta donde está el archivo (con extensión .pix) y los diferentes archivos (con extensión python .py) con los cuales el robot se comunica para ejecutar tareas complejas pero muy importantes para poder completar el propósito del robot en general.
+lo selecciona y envía ese archivo a la carpeta actual, sin necesidad de moverse a otra carpeta, 
 
 luego le cambia el nombre mediante una concatenación  de variables/cadenas de el nombre por defecto que este trae mas la fecha actual, 
 
-por ejemplo: "InfHistoriaPlano_2024-09-03", 
+por ejemplo: "InfProfesionalAgendaPlano_2024-09-23", 
 
-luego mediante un archivo python, 
-
-se le indica al robot que dependiendo el mes en curso mande el archivo a esa carpeta, 
+luego se le indica al robot que dependiendo el mes en curso mande el archivo a esa carpeta, 
 
 si no esta la carpeta del año y mes, 
 
 las crea automáticamente y mueve el archivo hasta esta dirección, 
 
-ya predeterminada en el archivo, 
+ya predeterminada en el script, 
 
 por ultimo cierra ventanas de VS Code, Explorador de archivos, Navegador Google y PIX Studio.
 
